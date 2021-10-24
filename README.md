@@ -2,15 +2,15 @@
 
 ### - Acerca de mí
 
-📲 Desarrollador de Software
+:iphone: Desarrollador de Software
 
-❤️ Creador de Contenidos Educativos
+:sparkling_heart: Creador de Contenidos Educativos
 
-🌍 Fundador de la Empresa: **@tizanasoft**
+:computer: Fundador de la Empresa: **@tizanasoft**
 
-⏬ Escritor de E-Books 
+:bookmark_tabs: Escritor de E-Books 
 
-### - Lenguajes y Tecnologías
+### - Tecnologías
 
 #### Frontend
 
@@ -40,9 +40,15 @@
 
 </p>
 
+### - E-Books
+
 ### - Blogs
+
 ### - YouTube
 
-#### Agradecimientos
 
-Template README [8bithemant](https://github.com/8bithemant)
+
+
+#### ***Agradecimientos***
+
+Plantilla de README [8bithemant](https://github.com/8bithemant)
