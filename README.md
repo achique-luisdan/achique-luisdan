@@ -1,20 +1,33 @@
-### Hola, Hola :blush:
+<section align="center">
+ 
+## Hola, Hola :blush:
 
-### - Acerca de mí
+## Acerca de mí
 
-:iphone: Desarrollador de Software
+<div align="center">
+ 
+ :iphone: Desarrollador de Software
 
-:sparkling_heart: Creador de Contenidos Educativos
+ :sparkling_heart: Creador de Contenidos Educativos
+ 
+ :computer: Fundador de la Empresa: **@tizanasoft**
+ 
+ :bookmark_tabs: Escritor de E-Books
+ 
+</div>
 
-:computer: Fundador de la Empresa: **@tizanasoft**
+</section>
 
-:bookmark_tabs: Escritor de E-Books 
+<section align="center">
 
-### - Tecnologías
+### Tecnologías
 
-#### Frontend
+<div align="center">
+
+### Frontend
 
 <p align="center">
+
  <img src="./imgs/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
 
  <img src="./imgs/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
@@ -25,9 +38,13 @@
 
  <img src="./imgs/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   
- 
 </p>
+</div>
 
+</section>
+
+<section align="center">
+ 
 #### Backend
 
 <p align="center">
@@ -39,28 +56,40 @@
  <img src="./imgs/java.svg" alt="Java" style="vertical-align:top; margin:4px">
 
 </p>
+ 
+</section>
 
-### - E-Books
+<section align="center">
+ 
+## E-Books
 
 <p align="center">
-<img src="./imgs/e-books/guia-ejercicios-python.png" alt="Guía de Ejercicios" style="vertical-align:top; margin:4px; height: 300px">
+<img src="./imgs/e-books/guia-ejercicios-python.png" alt="Guía de Ejercicios" style="vertical-align:top; margin:4px; height: 200px">
 
-<img src="./imgs/e-books/guia-gitlab.png" alt="GitLab" style="vertical-align:top; margin:4px; height: 300px">
+<img src="./imgs/e-books/guia-gitlab.png" alt="GitLab" style="vertical-align:top; margin:4px; height: 200px">
 
-<img src="./imgs/e-books/blog-django.png" alt="PostgreSQL" style="vertical-align:top; margin:4px; height: 300px">
+<img src="./imgs/e-books/blog-django.png" alt="PostgreSQL" style="vertical-align:top; margin:4px; height: 200px">
 
-<img src="./imgs/e-books/historias-de-usuarios.png" alt="Historias de Usuario" style="vertical-align:top; margin:4px; height: 300px">
+<img src="./imgs/e-books/historias-de-usuarios.png" alt="Historias de Usuario" style="vertical-align:top; margin:4px; height: 200px">
 
 
-<img src="./imgs/e-books/postgressql.png" alt="PostgreSQL" style="vertical-align:top; margin:4px; height: 300px">
+<img src="./imgs/e-books/postgressql.png" alt="PostgreSQL" style="vertical-align:top; margin:4px; height: 200px">
 
 </p>
+ 
+</section>
 
-### - Blogs
+<section align="center">
+ 
+## Blogs
 
-### - YouTube
+</section>
 
+<section align="center">
 
+## YouTube
+ 
+</section>
 
 
 #### ***Agradecimientos***
