@@ -1,6 +1,14 @@
 ### Hola, Hola :blush:
 
-Soy **Desarrollador de Software**
+### - Acerca de mí
+
+📲 Desarrollador de Software
+
+❤️ Creador de Contenidos Educativos
+
+🌍 Fundador de la Empresa: **@tizanasoft**
+
+⏬ Escritor de E-Books 
 
 ### - Lenguajes y Tecnologías
 
