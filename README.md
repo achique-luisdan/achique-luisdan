@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hola, Hola :blush:
 
-<!--
-**achique-luisdan/achique-luisdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Desarrollador de Software**
 
-Here are some ideas to get you started:
+### - Lenguajes y Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frontend
+
+<p align="center">
+ <img src="./imgs/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+
+ <img src="./imgs/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+
+ <img src="./imgs/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
+
+ <img src="./imgs/vue.svg" alt="Vue" style="vertical-align:top; margin:4px">
+
+ <img src="./imgs/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  
+ 
+</p>
+
+#### Backend
+
+<p align="center">
+ 
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+
+ <img src="./imgs/django.svg" alt="Django" style="vertical-align:top; margin:4px">
+
+ <img src="./imgs/java.svg" alt="Java" style="vertical-align:top; margin:4px">
+
+</p>
+
+### - Blogs
+### - YouTube
+
+#### Agradecimientos
+
+Template README [8bithemant](https://github.com/8bithemant)
