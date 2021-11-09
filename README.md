@@ -80,22 +80,14 @@
 </section>
 
 <section align="center">
- 
-## Blogs
-
-</section>
-
-<section align="center">
 
 ## YouTube
 
-[Tizana Coding](https://www.youtube.com/channel/UCukcjedjyv1hgQB8OMBEYeQ) 
- <br>
- Vlog de Desarrollo Web
+### [Tizana Coding](https://www.youtube.com/channel/UCukcjedjyv1hgQB8OMBEYeQ) 
  
- ![alt text](imgs/my-channel.png)
+ ![alt text](imgs/yt-coding.png)
 
- 
+ Vlog de Desarrollo Web 
 </section>
 
 
