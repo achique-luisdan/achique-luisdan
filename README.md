@@ -93,6 +93,8 @@
  <br>
  Vlog de Desarrollo Web
  
+ ![alt text](imgs/my-channel.png)
+
  
 </section>
 
