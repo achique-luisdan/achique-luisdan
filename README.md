@@ -60,6 +60,17 @@
 </section>
 
 <section align="center">
+
+## YouTube
+
+### [Tizana Coding](https://www.youtube.com/channel/UCukcjedjyv1hgQB8OMBEYeQ) 
+ 
+ ![alt text](imgs/yt-coding.png)
+
+ Vlog de Desarrollo Web 
+</section>
+
+<section align="center">
  
 ## E-Books
 
@@ -79,16 +90,7 @@
  
 </section>
 
-<section align="center">
 
-## YouTube
-
-### [Tizana Coding](https://www.youtube.com/channel/UCukcjedjyv1hgQB8OMBEYeQ) 
- 
- ![alt text](imgs/yt-coding.png)
-
- Vlog de Desarrollo Web 
-</section>
 
 
 #### ***Agradecimientos***
