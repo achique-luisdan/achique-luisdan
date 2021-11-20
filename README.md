@@ -70,29 +70,6 @@
  Vlog de Desarrollo Web 
 </section>
 
-<section align="center">
- 
-## E-Books
-
-<p align="center">
-<img src="./imgs/e-books/guia-ejercicios-python.png" alt="Guía de Ejercicios" style="vertical-align:top; margin:4px; height: 200px">
-
-<img src="./imgs/e-books/guia-gitlab.png" alt="GitLab" style="vertical-align:top; margin:4px; height: 200px">
-
-<img src="./imgs/e-books/blog-django.png" alt="PostgreSQL" style="vertical-align:top; margin:4px; height: 200px">
-
-<img src="./imgs/e-books/historias-de-usuarios.png" alt="Historias de Usuario" style="vertical-align:top; margin:4px; height: 200px">
-
-
-<img src="./imgs/e-books/postgressql.png" alt="PostgreSQL" style="vertical-align:top; margin:4px; height: 200px">
-
-</p>
- 
-</section>
-
-
-
-
 #### ***Agradecimientos***
 
 Plantilla de README [8bithemant](https://github.com/8bithemant)
