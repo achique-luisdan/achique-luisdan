@@ -36,7 +36,7 @@
 
  <img src="./imgs/vue.svg" alt="Vue" style="vertical-align:top; margin:4px">
 
- <img src="./imgs/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+ <!--<img src="./imgs/react.svg" alt="Twitter" style="vertical-align:top; margin:4px">-->
   
 </p>
 </div>
