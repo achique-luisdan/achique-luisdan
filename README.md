@@ -1,6 +1,6 @@
 <section align="center">
  
-## Hola:blush:
+## Hola, Hola:blush:
 
 ## Acerca de mí
 
