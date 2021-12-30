@@ -1,8 +1,6 @@
 <section align="center">
- 
-## Hola :blush:
 
-## Acerca de mí
+## Acerca de mí :blush:
 
 <div align="center">
  
