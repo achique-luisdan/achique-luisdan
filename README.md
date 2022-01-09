@@ -6,7 +6,7 @@
  
  :iphone: Desarrollador de Software
 
- :sparkling_heart: Creador de Contenidos Educativos
+<!--  :sparkling_heart: Creador de Contenidos Educativos -->
  
  :computer: Fundador de la Empresa: **@tizanasoft**
  
