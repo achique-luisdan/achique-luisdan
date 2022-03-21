@@ -27,6 +27,8 @@
 <p align="center">
 
  <img src="./imgs/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+ 
+  <img src="./imgs/css.svg" alt="CSS" style="vertical-align:top; margin:4px">
 
  <img src="./imgs/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
 
