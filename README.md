@@ -2,7 +2,7 @@
  
 ## Acerca de mí :blush:
 
- <img src="./imgs/logo2.png" alt="Logo 1er Semestre 2022">
+ <img src="./imgs/logo12022.png" alt="Logo 1er Semestre 2022">
  
  
 <div align="center">
