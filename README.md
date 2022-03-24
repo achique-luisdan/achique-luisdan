@@ -9,11 +9,11 @@
  
  :iphone: Desarrollador de Software
 
+  :sparkling_heart: Consultor de Programación
+ 
 <!--  :sparkling_heart: Creador de Contenidos Educativos -->
  
  :computer: Fundador de la Empresa: **@tizanasoft**
- 
- :bookmark_tabs: Consultor de Programación
  
 </div>
 
