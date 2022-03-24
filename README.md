@@ -63,7 +63,7 @@
 <br>
 <section align="center">
  
-## Agradecimientos
+## Agradecimientos 🎁
 
 Plantilla de README 
 [8bithemant](https://github.com/8bithemant)
