@@ -13,7 +13,7 @@
  
 <!--  :sparkling_heart: Creador de Contenidos Educativos -->
  
- :computer: Fundador de la Empresa: **@tizanasoft**
+ :computer: Fundador de la Empresa: **[@tizanasoft](https://github.com/tizanasoft)**
  
 </div>
 
