@@ -59,9 +59,34 @@
 </p>
  
 </section>
-<br>
-<br>
+
 <section align="center">
+
+## Proyectos (Projects)
+ 
+1️⃣ [Farmatodo - Portal de Aplicaciones Corporativas](https://github.com/achique-luisdan/farmatodo-portal-aplicaciones-corporativas)
+ 
+2️⃣ [Farmatodo - Etiquetado Web](https://github.com/achique-luisdan/farmatodo-etiquetado-web)
+
+3️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
+ 
+4️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
+	
+5️⃣ [Video Player](https://github.com/achique-luisdan/video-player)
+ 
+6️⃣ [Enciclopedia Multimedia "Aurora Digital"](https://github.com/achique-luisdan/em-aurora-digital)
+
+7️⃣ [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
+ 
+</section>
+
+<br>
+<br>
+
+<section align="center">
+ 
+
+ 
  
 ## Agradecimientos 🎁
 
