@@ -66,8 +66,6 @@
 
 ### [Tizana Coding](https://www.youtube.com/channel/UCukcjedjyv1hgQB8OMBEYeQ) 
  
- ![alt text](imgs/yt-coding.png)
-
  **Vlog de Desarrollo Web**
 </section>
 
