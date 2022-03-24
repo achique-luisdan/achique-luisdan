@@ -2,6 +2,9 @@
  
 ## Acerca de mí :blush:
 
+ <img src="./imgs/logo2.png" alt="Logo 1er Semestre 2022">
+ 
+ 
 <div align="center">
  
  :iphone: Desarrollador de Software
