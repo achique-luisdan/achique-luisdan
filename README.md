@@ -13,7 +13,7 @@
  
  :computer: Fundador de la Empresa: **@tizanasoft**
  
- :bookmark_tabs: Escritor de E-Books
+ :bookmark_tabs: Consultor de Programación
  
 </div>
 
@@ -59,16 +59,8 @@
 </p>
  
 </section>
-
-<section align="center">
-
-## YouTube
-
-### [Tizana Coding](https://www.youtube.com/channel/UCukcjedjyv1hgQB8OMBEYeQ) 
- 
- **Vlog de Desarrollo Web**
-</section>
-
+<br>
+<br>
 <section align="center">
  
 ## Agradecimientos
