@@ -2,16 +2,13 @@
  
 ## Acerca de mí :blush:
 
- <img src="./imgs/logo12022.png" alt="Logo 1er Semestre 2022">
- 
+<img src="./imgs/logo12022.png" alt="Logo 1er Semestre 2022">
  
 <div align="center">
  
- :iphone: Desarrollador de Software
+  :iphone: Desarrollador de Software
 
   :sparkling_heart: Consultor de Programación
- 
-<!--  :sparkling_heart: Creador de Contenidos Educativos -->
  
  :computer: Fundador de la Empresa: **[@tizanasoft](https://github.com/tizanasoft)**
  
