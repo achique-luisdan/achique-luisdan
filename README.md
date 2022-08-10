@@ -65,15 +65,17 @@
  
 2️⃣ [Farmatodo - Etiquetado Web](https://github.com/achique-luisdan/farmatodo-etiquetado-web)
 
-3️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
+3️⃣ [Farmatodo - Sistema de Inventario Activo](https://github.com/achique-luisdan/farmatodo-sistema-inventario-activo)
  
-4️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
+4️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
+ 
+5️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
 	
-5️⃣ [Video Player](https://github.com/achique-luisdan/video-player)
+6️⃣ [Video Player](https://github.com/achique-luisdan/video-player)
  
-6️⃣ [Enciclopedia Multimedia "Aurora Digital"](https://github.com/achique-luisdan/em-aurora-digital)
+7️⃣ [Enciclopedia Multimedia "Aurora Digital"](https://github.com/achique-luisdan/em-aurora-digital)
 
-7️⃣ [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
+8️⃣ [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
  
 </section>
 
