@@ -32,6 +32,8 @@
 
  <img src="./imgs/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
 
+ <img src="./imgs/ts.svg" alt="TypeScript" style="vertical-align:top; margin:4px">
+ 
  <img src="./imgs/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
 
  <img src="./imgs/vue.svg" alt="Vue" style="vertical-align:top; margin:4px">
