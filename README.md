@@ -71,13 +71,15 @@
  
 4️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
  
-5️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
+5️⃣ [Web Cakes Shop](https://github.com/achique-luisdan/web-cake-shop)
 	
-6️⃣ [Video Player](https://github.com/achique-luisdan/video-player)
+6️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
  
-7️⃣ [Enciclopedia Multimedia "Aurora Digital"](https://github.com/achique-luisdan/em-aurora-digital)
+7️⃣ [Video Player](https://github.com/achique-luisdan/video-player)
 
-8️⃣ [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
+8️⃣ [Enciclopedia Multimedia "Aurora Digital"](https://github.com/achique-luisdan/em-aurora-digital)
+
+:nine: [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
  
 </section>
 
