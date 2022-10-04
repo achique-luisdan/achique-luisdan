@@ -79,7 +79,7 @@
 
 8️⃣ [Enciclopedia Multimedia "Aurora Digital"](https://github.com/achique-luisdan/em-aurora-digital)
 
-:nine: [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
+:nine: _ [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
  
 </section>
 
