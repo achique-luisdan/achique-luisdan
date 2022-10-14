@@ -18,7 +18,7 @@
 
 <section align="center">
 
-### Tecnologías
+## Tecnologías
 
 <div align="center">
 
