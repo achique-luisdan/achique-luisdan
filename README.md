@@ -18,7 +18,7 @@
 
 <section align="center">
 
-## Tecnologías
+## Tecnologías 🛠️
 
 <div align="center">
 
@@ -84,9 +84,6 @@
 </section>
 
 <section align="center">
- 
-
- 
  
 ## Agradecimientos 🎁
 
