@@ -84,7 +84,9 @@
 </section>
 
 <section align="center">
- 
+
+## Cursos
+
 ## Agradecimientos 🎁
 
 Artículo para Crear un README
