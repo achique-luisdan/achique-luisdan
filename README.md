@@ -85,7 +85,7 @@
 
 <section align="center">
 
-## Cursos
+## Cursos :bookmark_tabs:
 
 :large_blue_circle: [Curso Teórico de Frontend Developer](https://platzi.com/p/achiqueluisdan/curso/2467-frontend-developer/diploma/detalle/)
 	
