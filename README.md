@@ -56,7 +56,7 @@
  <img src="./imgs/java.svg" alt="Java" style="vertical-align:top; margin:4px">
 
 </p>
- 
+
 </section>
 
 <section align="center">
@@ -86,6 +86,38 @@
 <section align="center">
 
 ## Cursos
+
+:large_blue_circle: [Curso Teórico de Frontend Developer](https://platzi.com/p/achiqueluisdan/curso/2467-frontend-developer/diploma/detalle/)
+	
+:large_blue_circle: [Curso Práctico de Frontend Developer](https://platzi.com/p/achiqueluisdan/curso/2477-frontend-developer-practico/diploma/detalle/)
+
+:large_blue_circle: [Curso para Conseguir Trabajo como Frontend Developer](https://platzi.com/p/achiqueluisdan/curso/2641-conseguir-trabajo-frontend/diploma/detalle/)
+
+:large_blue_circle: [Curso Práctico de HTML y CSS](https://platzi.com/p/achiqueluisdan/curso/1758-html-practico/diploma/detalle/)
+
+:large_blue_circle: [Curso Práctico de Maquetación en CSS](https://platzi.com/p/achiqueluisdan/curso/1744-practico-css/diploma/detalle/)
+
+:large_blue_circle: [Curso de CSS Grid Básico](https://platzi.com/p/achiqueluisdan/curso/2474-css-grid/diploma/detalle/)
+
+:large_blue_circle: [Curso Básico de JavaScript](https://platzi.com/p/achiqueluisdan/curso/1814-basico-javascript/diploma/detalle/)
+
+:large_blue_circle: [Curso Práctico de JavaScript](https://platzi.com/p/achiqueluisdan/curso/2327-javascript-practico-2021/diploma/detalle/)
+
+:large_blue_circle: [Curso de Diseño para Developers](https://platzi.com/p/achiqueluisdan/curso/1906-diseno-programadores/diploma/detalle/)
+
+[Curso de Responsive Design: Maquetación Mobile First](https://platzi.com/p/achiqueluisdan/curso/2030-mobile-first/diploma/detalle/)
+
+[Curso para Aprender a Ser Creativo](https://platzi.com/p/achiqueluisdan/curso/3097-aprendercreatividad/diploma/detalle/)
+
+[Curso Básico de Escritura Creativa](https://platzi.com/p/achiqueluisdan/curso/2781-escritura-basica/diploma/detalle/)
+
+[Curso de Angular: Componentes y Servicios](https://platzi.com/p/achiqueluisdan/curso/2486-angular-componentes/diploma/detalle/)
+
+[Curso Básico de Python](https://platzi.com/p/achiqueluisdan/curso/1937-python-basico/diploma/detalle/)
+	
+[Curso Básico de Django](https://platzi.com/p/achiqueluisdan/curso/2694-django/diploma/detalle/)
+
+[Curso de Marca Personal: Creación de Blog](https://platzi.com/p/achiqueluisdan/curso/2593-blog-personal/diploma/detalle/)
 
 ## Agradecimientos 🎁
 
