@@ -105,19 +105,19 @@
 
 :large_blue_circle: [Curso de Diseño para Developers](https://platzi.com/p/achiqueluisdan/curso/1906-diseno-programadores/diploma/detalle/)
 
-[Curso de Responsive Design: Maquetación Mobile First](https://platzi.com/p/achiqueluisdan/curso/2030-mobile-first/diploma/detalle/)
+:large_blue_circle: [Curso de Responsive Design: Maquetación Mobile First](https://platzi.com/p/achiqueluisdan/curso/2030-mobile-first/diploma/detalle/)
 
-[Curso para Aprender a Ser Creativo](https://platzi.com/p/achiqueluisdan/curso/3097-aprendercreatividad/diploma/detalle/)
+:large_blue_circle: [Curso para Aprender a Ser Creativo](https://platzi.com/p/achiqueluisdan/curso/3097-aprendercreatividad/diploma/detalle/)
 
-[Curso Básico de Escritura Creativa](https://platzi.com/p/achiqueluisdan/curso/2781-escritura-basica/diploma/detalle/)
+:large_blue_circle: [Curso Básico de Escritura Creativa](https://platzi.com/p/achiqueluisdan/curso/2781-escritura-basica/diploma/detalle/)
 
-[Curso de Angular: Componentes y Servicios](https://platzi.com/p/achiqueluisdan/curso/2486-angular-componentes/diploma/detalle/)
+:large_blue_circle: [Curso de Angular: Componentes y Servicios](https://platzi.com/p/achiqueluisdan/curso/2486-angular-componentes/diploma/detalle/)
 
-[Curso Básico de Python](https://platzi.com/p/achiqueluisdan/curso/1937-python-basico/diploma/detalle/)
+:large_blue_circle: [Curso Básico de Python](https://platzi.com/p/achiqueluisdan/curso/1937-python-basico/diploma/detalle/)
 	
-[Curso Básico de Django](https://platzi.com/p/achiqueluisdan/curso/2694-django/diploma/detalle/)
+:large_blue_circle: [Curso Básico de Django](https://platzi.com/p/achiqueluisdan/curso/2694-django/diploma/detalle/)
 
-[Curso de Marca Personal: Creación de Blog](https://platzi.com/p/achiqueluisdan/curso/2593-blog-personal/diploma/detalle/)
+:large_blue_circle: [Curso de Marca Personal: Creación de Blog](https://platzi.com/p/achiqueluisdan/curso/2593-blog-personal/diploma/detalle/)
 
 ## Agradecimientos 🎁
 
