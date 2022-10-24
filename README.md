@@ -6,10 +6,12 @@
  
 <div align="center">
 
-:iphone: Desarrollador de Software con 6 años de experiencia
+🚀  Desarrollador de Software con 6 años de experiencia
  
 :sparkling_heart: Consultor de Programación
- 
+
+🌍 Fundador de la Comunidad: **[@3en1developers](https://github.com/3en1developers)**
+
 :computer: Fundador de la Empresa: **[@tizanasoft](https://github.com/tizanasoft)**
  
 </div>
