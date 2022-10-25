@@ -71,9 +71,9 @@
 
 3️⃣ [Farmatodo - Sistema de Inventario Activo](https://github.com/achique-luisdan/farmatodo-sistema-inventario-activo)
  
-4️⃣ [Konekti Media - API REST de Ruleta de Premios]()
+4️⃣ [Konekti Media - Ruleta de Premios]()
 
-5️⃣ [Konekti Media - Módulo de Demos Publicitarios]()
+5️⃣ [Konekti Media - Web de Demos Publicitarios]()
 
 6️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
  
