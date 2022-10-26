@@ -71,21 +71,23 @@
 
 3️⃣ [Farmatodo - Sistema de Inventario Activo](https://github.com/achique-luisdan/farmatodo-sistema-inventario-activo)
  
-4️⃣ [Konekti Media - Ruleta de Premios]()
+4️⃣ [Julio Masajes - Landing Page](https://github.com/achique-luisdan/julio-masajes) 
 
-5️⃣ [Konekti Media - Web de Demos Publicitarios]()
+5️⃣ [Konekti Media - Ruleta de Premios]() 
 
-6️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
+6️⃣ [Konekti Media - Web de Demos Publicitarios]()
+
+7️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
  
-7️⃣ [Web Cakes Shop](https://github.com/achique-luisdan/web-cake-shop)
-	
-8️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
+8️⃣ [Web Cakes Shop](https://github.com/achique-luisdan/web-cake-shop)
+
+9️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
  
-9️⃣ [Video Player](https://github.com/achique-luisdan/video-player)
+1️⃣0️⃣ [Video Player](https://github.com/achique-luisdan/video-player)
 
-1️⃣0️⃣ [Enciclopedia Multimedia "Aurora Digital"](https://github.com/achique-luisdan/em-aurora-digital)
+1️⃣1️⃣ [Enciclopedia Multimedia "Aurora Digital"](https://github.com/achique-luisdan/em-aurora-digital)
 
-1️⃣1️⃣ [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
+1️⃣2️⃣ [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
  
 </section>
 
