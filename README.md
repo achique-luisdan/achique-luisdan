@@ -71,7 +71,7 @@
 
 3️⃣ [Farmatodo - Sistema de Inventario Activo](https://github.com/achique-luisdan/farmatodo-sistema-inventario-activo)
  
-4️⃣ [Julio Masajes - Landing Page](https://github.com/achique-luisdan/julio-masajes) 
+4️⃣ [Julio Masajes - Landing Page](https://github.com/achique-luisdan/web-julio-masajes) 
 
 5️⃣ [Konekti Media - Ruleta de Premios]() 
 
