@@ -129,6 +129,6 @@
 
 ## Agradecimientos 🎁
 
-Artículo para Crear un README
+Artículo para crear un README
 [midudev](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
 </section>
