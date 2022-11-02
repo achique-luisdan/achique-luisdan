@@ -118,8 +118,10 @@
 :large_blue_circle: [Curso de Responsive Design: Maquetación Mobile First](https://platzi.com/p/achiqueluisdan/curso/2030-mobile-first/diploma/detalle/)
 
 :large_blue_circle: [Curso de Marca Personal: Creación de Blog](https://platzi.com/p/achiqueluisdan/curso/2593-blog-personal/diploma/detalle/)
-	
+
 :large_blue_circle: [Curso para Aprender a Ser Creativo](https://platzi.com/p/achiqueluisdan/curso/3097-aprendercreatividad/diploma/detalle/)
+
+:large_blue_circle: [Curso para Crear un Brief](https://platzi.com/p/achiqueluisdan/curso/3160-brief-marketing/diploma/detalle/)
 
 :large_blue_circle: [Curso Básico de Escritura Creativa](https://platzi.com/p/achiqueluisdan/curso/2781-escritura-basica/diploma/detalle/)
 
