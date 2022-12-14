@@ -115,6 +115,8 @@
 
 :large_blue_circle: [Curso de Diseño para Developers](https://platzi.com/p/achiqueluisdan/curso/1906-diseno-programadores/diploma/detalle/)
 
+:large_blue_circle: [Audiocurso Glosario de Términos de Diseño](https://platzi.com/p/achiqueluisdan/curso/2475-glosario-ux/diploma/detalle/)
+
 :large_blue_circle: [Curso de Responsive Design: Maquetación Mobile First](https://platzi.com/p/achiqueluisdan/curso/2030-mobile-first/diploma/detalle/)
 
 :large_blue_circle: [Curso de Marca Personal: Creación de Blog](https://platzi.com/p/achiqueluisdan/curso/2593-blog-personal/diploma/detalle/)
@@ -129,6 +131,8 @@
 	
 :large_blue_circle: [Curso Básico de Django](https://platzi.com/p/achiqueluisdan/curso/2694-django/diploma/detalle/)
 
+:large_blue_circle: [Curso para Organizar tu Vida con Bullet Journal](https://platzi.com/p/achiqueluisdan/curso/3094-bullet-journal/diploma/detalle/)
+	
 ## Agradecimientos 🎁
 
 Artículo para crear un README
