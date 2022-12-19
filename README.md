@@ -57,6 +57,7 @@
 
  <img src="./imgs/java.svg" alt="Java" style="vertical-align:top; margin:4px">
 
+ <img src="./imgs/nodejs.svg" alt="Node.js" style="vertical-align:top; margin:4px">
 </p>
 
 </section>
