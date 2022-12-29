@@ -116,6 +116,8 @@
 
 :large_blue_circle: [Curso de Vue.js: Introducción y Fundamentos](https://platzi.com/p/achiqueluisdan/curso/2819-vuejs/diploma/detalle/)
 
+:large_blue_circle: [Audiocurso de Frameworks y Arquitecturas Frontend: Casos de Estudio](https://platzi.com/p/achiqueluisdan/curso/4623-arquitectura-frontend/diploma/detalle/)
+
 :large_blue_circle: [Curso de Diseño para Developers](https://platzi.com/p/achiqueluisdan/curso/1906-diseno-programadores/diploma/detalle/)
 
 :large_blue_circle: [Audiocurso Glosario de Términos de Diseño](https://platzi.com/p/achiqueluisdan/curso/2475-glosario-ux/diploma/detalle/)
