@@ -6,7 +6,7 @@
  
 <div align="center">
 
-🚀  Desarrollador de Software con 6 años de experiencia
+🚀  Desarrollador de Software con <b>7 años</b> de experiencia
  
 :sparkling_heart: Consultor de Programación
 
