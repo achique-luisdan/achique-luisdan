@@ -115,7 +115,9 @@
 :large_blue_circle: [Curso de Angular: Componentes y Servicios](https://platzi.com/p/achiqueluisdan/curso/2486-angular-componentes/diploma/detalle/)
 
 :large_blue_circle: [Curso de Vue.js: Introducción y Fundamentos](https://platzi.com/p/achiqueluisdan/curso/2819-vuejs/diploma/detalle/)
-
+	
+:large_blue_circle: [Curso de Vue.js: Componentes y Composition API](https://platzi.com/p/achiqueluisdan/curso/2820-vuejs-componentes-composition/diploma/detalle/)
+	
 :large_blue_circle: [Audiocurso de Frameworks y Arquitecturas Frontend: Casos de Estudio](https://platzi.com/p/achiqueluisdan/curso/4623-arquitectura-frontend/diploma/detalle/)
 
 :large_blue_circle: [Curso de Diseño para Developers](https://platzi.com/p/achiqueluisdan/curso/1906-diseno-programadores/diploma/detalle/)
