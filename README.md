@@ -126,10 +126,6 @@
 
 :large_blue_circle: [Curso de Responsive Design: Maquetación Mobile First](https://platzi.com/p/achiqueluisdan/curso/2030-mobile-first/diploma/detalle/)
 
-:large_blue_circle: [Curso de Marca Personal: Creación de Blog](https://platzi.com/p/achiqueluisdan/curso/2593-blog-personal/diploma/detalle/)
-
-:large_blue_circle: [Curso de Hacks para Redactar Titulares](https://platzi.com/p/achiqueluisdan/curso/3040-titulares/diploma/detalle/)
-
 :large_blue_circle: [Curso para Aprender a Ser Creativo](https://platzi.com/p/achiqueluisdan/curso/3097-aprendercreatividad/diploma/detalle/)
 
 :large_blue_circle: [Curso para Crear un Brief](https://platzi.com/p/achiqueluisdan/curso/3160-brief-marketing/diploma/detalle/)
@@ -141,6 +137,16 @@
 :large_blue_circle: [Curso Básico de Django](https://platzi.com/p/achiqueluisdan/curso/2694-django/diploma/detalle/)
 
 :large_blue_circle: [Curso para Organizar tu Vida con Bullet Journal](https://platzi.com/p/achiqueluisdan/curso/3094-bullet-journal/diploma/detalle/)
+	
+### Sobre Blogging
+
+:large_blue_circle: [Curso de Marca Personal: Creación de Blog](https://platzi.com/p/achiqueluisdan/curso/2593-blog-personal/diploma/detalle/)
+
+
+:large_blue_circle: [Curso de Marketing de Contenidos para Marca Personal](https://platzi.com/p/achiqueluisdan/curso/3228-contenidosmarcapersonal/diploma/detalle/)
+
+:large_blue_circle: [Curso de Hacks para Redactar Titulares](https://platzi.com/p/achiqueluisdan/curso/3040-titulares/diploma/detalle/)
+
 	
 ## Agradecimientos 🎁
 
