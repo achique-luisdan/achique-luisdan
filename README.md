@@ -64,7 +64,7 @@
 
 <section align="center">
 
-## Proyectos (Projects) ❤️
+## Proyectos Completados (Projects) ❤️
  
 1️⃣ [Farmatodo - Portal de Aplicaciones Corporativas](https://github.com/achique-luisdan/farmatodo-portal-aplicaciones-corporativas)
  
@@ -94,7 +94,7 @@
 
 <section align="center">
 
-## Cursos :bookmark_tabs:
+## Cursos Aprobados :bookmark_tabs:
 
 :large_blue_circle: [Curso Teórico de Frontend Developer](https://platzi.com/p/achiqueluisdan/curso/2467-frontend-developer/diploma/detalle/)
 	
