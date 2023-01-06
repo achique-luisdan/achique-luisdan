@@ -20,7 +20,7 @@
 
 <section align="center">
 
-## Tecnologías 🛠️
+## Tecnologías (Skills) 🛠️
 
 <div align="center">
 
@@ -94,7 +94,7 @@
 
 <section align="center">
 
-## Cursos Aprobados :bookmark_tabs:
+## Cursos Aprobados (Cources) :bookmark_tabs:
 
 :large_blue_circle: [Curso Teórico de Frontend Developer](https://platzi.com/p/achiqueluisdan/curso/2467-frontend-developer/diploma/detalle/)
 	
