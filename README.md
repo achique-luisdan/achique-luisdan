@@ -148,7 +148,7 @@
 :large_blue_circle: [Hacks para Redactar Titulares](https://platzi.com/p/achiqueluisdan/curso/3040-titulares/diploma/detalle/)
 
 	
-## Agradecimientos 🎁
+## Agradecimientos (Thanks) 🎁
 
 Artículo para crear un README
 [midudev](https://midu.dev/como-crear-tu-perfil-de-github-con-readme/)
