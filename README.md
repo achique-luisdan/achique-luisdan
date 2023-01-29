@@ -80,7 +80,7 @@
 
 7️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
  
-8️⃣ [Web Cakes Shop](https://github.com/achique-luisdan/web-cake-shop)
+8️⃣ [Web Cakes Shop](https://github.com/achique-luisdan/web-cakes-shop)
 
 9️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
  
