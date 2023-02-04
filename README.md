@@ -111,7 +111,7 @@
 :large_blue_circle: [Básico de JavaScript](https://platzi.com/p/achiqueluisdan/curso/1814-basico-javascript/diploma/detalle/)
 
 :large_blue_circle: [Práctico de JavaScript](https://platzi.com/p/achiqueluisdan/curso/2327-javascript-practico-2021/diploma/detalle/)
-
+	
 :large_blue_circle: [Angular: Componentes y Servicios](https://platzi.com/p/achiqueluisdan/curso/2486-angular-componentes/diploma/detalle/)
 
 :large_blue_circle: [Vue.js: Introducción y Fundamentos](https://platzi.com/p/achiqueluisdan/curso/2819-vuejs/diploma/detalle/)
@@ -132,6 +132,8 @@
 
 :large_blue_circle: [Básico de Escritura Creativa](https://platzi.com/p/achiqueluisdan/curso/2781-escritura-basica/diploma/detalle/)
 
+:large_blue_circle: [Backend con Node.js: API REST con Express.js](https://platzi.com/p/achiqueluisdan/curso/2485-backend-nodejs/diploma/detalle/)
+
 :large_blue_circle: [Básico de Python](https://platzi.com/p/achiqueluisdan/curso/1937-python-basico/diploma/detalle/)
 	
 :large_blue_circle: [Básico de Django](https://platzi.com/p/achiqueluisdan/curso/2694-django/diploma/detalle/)
@@ -141,7 +143,6 @@
 ### Sobre Blogging
 
 :large_blue_circle: [Marca Personal: Creación de Blog](https://platzi.com/p/achiqueluisdan/curso/2593-blog-personal/diploma/detalle/)
-
 
 :large_blue_circle: [Marketing de Contenidos para Marca Personal](https://platzi.com/p/achiqueluisdan/curso/3228-contenidosmarcapersonal/diploma/detalle/)
 
