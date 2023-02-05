@@ -1,6 +1,6 @@
 <section align="center">
  
-## Acerca de mí :blush:
+## Acerca de mí (About me) :blush:
 
 <img src="./imgs/logo12022.png" alt="Logo 1er Semestre 2022" height="150px">
  
