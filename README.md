@@ -111,7 +111,9 @@
 :large_blue_circle: [Básico de JavaScript](https://platzi.com/p/achiqueluisdan/curso/1814-basico-javascript/diploma/detalle/)
 
 :large_blue_circle: [Práctico de JavaScript](https://platzi.com/p/achiqueluisdan/curso/2327-javascript-practico-2021/diploma/detalle/)
-	
+
+:large_blue_circle: [Manipulación de Arrays en JavaScript](https://platzi.com/p/achiqueluisdan/curso/2461-arrays/diploma/detalle/)
+
 :large_blue_circle: [Angular: Componentes y Servicios](https://platzi.com/p/achiqueluisdan/curso/2486-angular-componentes/diploma/detalle/)
 
 :large_blue_circle: [Vue.js: Introducción y Fundamentos](https://platzi.com/p/achiqueluisdan/curso/2819-vuejs/diploma/detalle/)
