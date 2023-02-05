@@ -142,6 +142,8 @@
 	
 :large_blue_circle: [Básico de Django](https://platzi.com/p/achiqueluisdan/curso/2694-django/diploma/detalle/)
 
+:large_blue_circle: [Django Intermedio: Testing, Static Files, Django Admin](https://platzi.com/p/achiqueluisdan/curso/2728-django-intermedio/diploma/detalle/)
+
 :large_blue_circle: [Organizar tu Vida con Bullet Journal](https://platzi.com/p/achiqueluisdan/curso/3094-bullet-journal/diploma/detalle/)
 	
 ### Sobre Blogging
