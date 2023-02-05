@@ -1,8 +1,8 @@
 <section align="center">
  
-## Acerca de mí (About me) :blush:
+## Acerca de mí (About) :blush:
 
-<img src="./imgs/logo12022.png" alt="Logo 1er Semestre 2022" height="150px">
+<img src="./logo12022.png" alt="Logo 1er Semestre 2022" height="150px">
  
 <div align="center">
 
@@ -28,18 +28,24 @@
 
 <p align="center">
 
- <img src="./imgs/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+ <img src="./badgets/frontend/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
  
-  <img src="./imgs/css.svg" alt="CSS" style="vertical-align:top; margin:4px">
+  <img src="./badgets/frontend/css.svg" alt="CSS" style="vertical-align:top; margin:4px">
 
- <img src="./imgs/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
+ <img src="./badgets/frontend/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:4px">
 
- <img src="./imgs/ts.svg" alt="TypeScript" style="vertical-align:top; margin:4px">
+ <img src="./badgets/frontend/typescript.svg" alt="TypeScript" style="vertical-align:top; margin:4px">
  
- <img src="./imgs/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
+ <img src="./badgets/frontend/angular.svg" alt="Angular" style="vertical-align:top; margin:4px">
 
- <img src="./imgs/vue.svg" alt="Vue" style="vertical-align:top; margin:4px">
+ <img src="./badgets/frontend/vue.svg" alt="Vue" style="vertical-align:top; margin:4px">
+
+  <img src="./badgets/frontend/react.svg" alt="React" style="vertical-align:top; margin:4px">
+
+  <img src="./badgets/frontend/next.svg" alt="Next" style="vertical-align:top; margin:4px">
   
+   <img src="./badgets/frontend/rxjs.svg" alt="RxJS" style="vertical-align:top; margin:4px">
+
 </p>
 </div>
 
@@ -51,16 +57,66 @@
 
 <p align="center">
  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+  <img src="./badgets/backend/python.svg" alt="Python" style="vertical-align:top; margin:4px">
 
- <img src="./imgs/django.svg" alt="Django" style="vertical-align:top; margin:4px">
+ <img src="./badgets/backend/django.svg" alt="Django" style="vertical-align:top; margin:4px">
 
- <img src="./imgs/java.svg" alt="Java" style="vertical-align:top; margin:4px">
+  <img src="./badgets/backend/drf.svg" alt="Django REST Framework" style="vertical-align:top; margin:4px">
 
- <img src="./imgs/nodejs.svg" alt="Node.js" style="vertical-align:top; margin:4px">
+  <img src="./badgets/backend/flask.svg" alt="Flask" style="vertical-align:top; margin:4px">
+
+  <img src="./badgets/backend/nodejs.svg" alt="Node.js" style="vertical-align:top; margin:4px">
+
+  <img src="./badgets/backend/expressjs.svg" alt="Express.js" style="vertical-align:top; margin:4px">
+
+  <img src="./badgets/tests/jest.svg" alt="Jest" style="vertical-align:top; margin:4px">
+
+  <img src="./badgets/backend/c.svg" alt="C" style="vertical-align:top; margin:4px">
+
+  <img src="./badgets/backend/cpp.svg" alt="C++" style="vertical-align:top; margin:4px">
+
+  <img src="./badgets/backend/java.svg" alt="Java" style="vertical-align:top; margin:4px">
+
 </p>
+</section>
+
+<section align="center">
+
+### Database
+
+  <p align="center">
+    <img src="./badgets/database/postgresql.svg" alt="PostgreSQL" style="vertical-align:top; margin:4px">
+    <img src="./badgets/database/mysql.svg" alt="MySQL" style="vertical-align:top; margin:4px">
+    <img src="./badgets/database/mariadb.svg" alt="MariaDB" style="vertical-align:top; margin:4px">
+    <img src="./badgets/database/sqlite.svg" alt="SQLite" style="vertical-align:top; margin:4px">
+    <img src="./badgets/database/mongodb.svg" alt="MongoDB" style="vertical-align:top; margin:4px">
+    
+  </p>
+</section>
+
+
+<section align="center">
+
+### Mobile
+
+  <p align="center">
+    <img src="./badgets/mobile/react_native.svg" alt="React Native" style="vertical-align:top; margin:4px">
+    <img src="./badgets/mobile/qt.svg" alt="Qt" style="vertical-align:top; margin:4px">
+  </p>
 
 </section>
+
+
+<section align="center">
+
+### Desing
+
+  <p align="center">
+    <img src="./badgets/design/inkscape.svg" alt="React Native" style="vertical-align:top; margin:4px">
+  </p>
+
+</section>
+
 
 <section align="center">
 
