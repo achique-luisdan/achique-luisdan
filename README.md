@@ -94,7 +94,7 @@
   </p>
 </section>
 
-
+<!-- 
 <section align="center">
 
 ### Mobile
@@ -104,7 +104,7 @@
     <img src="./badgets/mobile/qt.svg" alt="Qt" style="vertical-align:top; margin:4px">
   </p>
 
-</section>
+</section> -->
 
 
 <section align="center">
