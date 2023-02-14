@@ -42,9 +42,9 @@
 
   <img src="./badgets/frontend/react.svg" alt="React" style="vertical-align:top; margin:4px">
 
-  <img src="./badgets/frontend/next.svg" alt="Next" style="vertical-align:top; margin:4px">
+<!--   <img src="./badgets/frontend/next.svg" alt="Next" style="vertical-align:top; margin:4px">
   
-   <img src="./badgets/frontend/rxjs.svg" alt="RxJS" style="vertical-align:top; margin:4px">
+   <img src="./badgets/frontend/rxjs.svg" alt="RxJS" style="vertical-align:top; margin:4px"> -->
 
 </p>
 </div>
