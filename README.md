@@ -71,9 +71,9 @@
 
   <img src="./badgets/tests/jest.svg" alt="Jest" style="vertical-align:top; margin:4px">
 
-<!--   <img src="./badgets/backend/c.svg" alt="C" style="vertical-align:top; margin:4px">
+  <img src="./badgets/backend/c.svg" alt="C" style="vertical-align:top; margin:4px">
 
-  <img src="./badgets/backend/cpp.svg" alt="C++" style="vertical-align:top; margin:4px"> -->
+  <img src="./badgets/backend/cpp.svg" alt="C++" style="vertical-align:top; margin:4px">
 
   <img src="./badgets/backend/java.svg" alt="Java" style="vertical-align:top; margin:4px">
 
