@@ -200,6 +200,8 @@
 
 :large_blue_circle: [Backend con Node.js: API REST con Express.js](https://platzi.com/p/achiqueluisdan/curso/2485-backend-nodejs/diploma/detalle/)
 
+:large_blue_circle: [Backend con Node.js: Base de Datos con PostgreSQL](https://platzi.com/p/achiqueluisdan/curso/2507-backend-nodejs-postgres/diploma/detalle/)
+	
 :large_blue_circle: [Básico de Python](https://platzi.com/p/achiqueluisdan/curso/1937-python-basico/diploma/detalle/)
 	
 :large_blue_circle: [Básico de Django](https://platzi.com/p/achiqueluisdan/curso/2694-django/diploma/detalle/)
