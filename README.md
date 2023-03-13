@@ -130,29 +130,30 @@
  
 4️⃣ [Julio Masajes - Landing Page](https://github.com/achique-luisdan/web-julio-masajes) 
 
-5️⃣ [Konekti Media - Ruleta de Premios]() 
+5️⃣ [Generador💟 de vídeos📹 de reportes📊 **(Open Source)**](https://github.com/achique-luisdan/web-media-reports)
 
-6️⃣ [Konekti Media - Web de Demos Publicitarios]()
+6️⃣ [Konekti Media - Ruleta de Premios]() 
 
-6️⃣ [Generador💟 de vídeos📹 de reportes📊 **(Open Source)**](https://github.com/achique-luisdan/web-media-reports)
+7️⃣ [Konekti Media - Web de Demos Publicitarios]()
 
-7️⃣ [Despegar - Chatbot Generador de Anuncios Inmobiliarios]()
+
+8️⃣ [Despegar - Chatbot Generador de Anuncios Inmobiliarios]()
 	
-8️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
+9️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
  
-9️⃣ [Web Cakes Shop](https://github.com/achique-luisdan/web-cakes-shop)
+1️⃣0️⃣ [Web Cakes Shop](https://github.com/achique-luisdan/web-cakes-shop)
 
-1️⃣0️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
+1️⃣1️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
  
-1️⃣1️⃣ [Video Player](https://github.com/achique-luisdan/video-player)
+1️⃣2️⃣ [Video Player](https://github.com/achique-luisdan/video-player)
 
-1️⃣2️⃣ [Enciclopedia Multimedia "Aurora Digital"](https://github.com/achique-luisdan/em-aurora-digital)
+1️⃣3️⃣ [Enciclopedia Multimedia "Aurora Digital"](https://github.com/achique-luisdan/em-aurora-digital)
 
-1️⃣3️⃣  [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
+1️⃣4️⃣ [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
  
-1️⃣4️⃣ [Mi Blog](https://github.com/achique-luisdan/blog.achique.luisdan)
+1️⃣5️⃣ [Mi Blog](https://github.com/achique-luisdan/blog.achique.luisdan)
 
-1️⃣5️⃣ [API - Novedades de Valioso Producto Digital](https://github.com/achique-luisdan/api-product-news)
+1️⃣6️⃣ [API - Novedades de Valioso Producto Digital](https://github.com/achique-luisdan/api-product-news)
 
 </section>
 
@@ -228,7 +229,6 @@
 
 :large_blue_circle: [Hacks para Redactar Titulares](https://platzi.com/p/achiqueluisdan/curso/3040-titulares/diploma/detalle/)
 
-	
 ## Agradecimientos (Thanks) 🎁
 
 Artículo para crear un README
