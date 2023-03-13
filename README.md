@@ -134,6 +134,8 @@
 
 6️⃣ [Konekti Media - Web de Demos Publicitarios]()
 
+6️⃣ [Generador💟 de vídeos📹 de reportes📊](https://github.com/achique-luisdan/web-media-reports)
+
 7️⃣ Despegar - Chatbot Generador de Anuncios Inmobiliarios
 	
 8️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
