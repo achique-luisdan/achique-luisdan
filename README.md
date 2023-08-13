@@ -219,6 +219,10 @@
 
 :large_blue_circle: [Django Intermedio: Testing, Static Files, Django Admin](https://platzi.com/p/achiqueluisdan/curso/2728-django-intermedio/diploma/detalle/)
 
+:large_blue_circle: [Curso Práctico de SQL](https://platzi.com/p/achiqueluisdan/curso/2059-practico-sql/diploma/detalle/)
+
+:large_blue_circle: [Curso de PostgreSQL Aplicado a Ciencia de Datos](https://platzi.com/p/achiqueluisdan/curso/1780-postgresql-datos/diploma/detalle/)
+
 :large_blue_circle: [Organizar tu Vida con Bullet Journal](https://platzi.com/p/achiqueluisdan/curso/3094-bullet-journal/diploma/detalle/)
 
 :large_blue_circle: [Finanzas Personales: Cómo Ahorrar Dinero](https://platzi.com/p/achiqueluisdan/curso/2642-ahorro-personal/diploma/detalle/)
