@@ -130,12 +130,11 @@
  
 4️⃣ [Julio Masajes - Landing Page](https://github.com/achique-luisdan/web-julio-masajes) 
 
-5️⃣ [Generador💟 de vídeos📹 de reportes📊 **(Open Source)**](https://github.com/achique-luisdan/web-media-reports)
+5️⃣ [Mi Blog](https://github.com/achique-luisdan/blog.achique.luisdan)
 
 6️⃣ [Konekti Media - Ruleta de Premios]() 
 
 7️⃣ [Konekti Media - Web de Demos Publicitarios]()
-
 
 8️⃣ [Despegar - Chatbot Generador de Anuncios Inmobiliarios]()
 	
@@ -151,7 +150,7 @@
 
 1️⃣4️⃣ [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
  
-1️⃣5️⃣ [Mi Blog](https://github.com/achique-luisdan/blog.achique.luisdan)
+1️⃣5️⃣ [Generador💟 de vídeos📹 de reportes📊 **(Open Source)**](https://github.com/achique-luisdan/web-media-reports)
 
 1️⃣6️⃣ [API - Novedades de Valioso Producto Digital](https://github.com/achique-luisdan/api-product-news)
 
