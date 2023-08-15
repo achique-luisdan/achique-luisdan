@@ -122,19 +122,19 @@
 
 ## Proyectos (Projects) ❤️
 
-1️⃣ [Farmatodo - Portal de Aplicaciones Corporativas](https://github.com/achique-luisdan/farmatodo-portal-aplicaciones-corporativas)
+🌟 1️⃣ [Farmatodo - Portal de Aplicaciones Corporativas](https://github.com/achique-luisdan/farmatodo-portal-aplicaciones-corporativas)
  
-2️⃣ [Farmatodo - Etiquetado Web](https://github.com/achique-luisdan/farmatodo-etiquetado-web)
+🌟 2️⃣ [Farmatodo - Etiquetado Web](https://github.com/achique-luisdan/farmatodo-etiquetado-web)
 
-3️⃣ [Farmatodo - Sistema de Inventario Activo](https://github.com/achique-luisdan/farmatodo-sistema-inventario-activo)
+🌟 3️⃣ [Farmatodo - Sistema de Inventario Activo](https://github.com/achique-luisdan/farmatodo-sistema-inventario-activo)
  
-4️⃣ [Julio Masajes - Landing Page](https://github.com/achique-luisdan/web-julio-masajes) 
+🌟 4️⃣ [Julio Masajes - Landing Page](https://github.com/achique-luisdan/web-julio-masajes) 
 
 5️⃣ [Mi Blog](https://github.com/achique-luisdan/blog.achique.luisdan)
 
-6️⃣ [Konekti Media - Ruleta de Premios]() 
+🌟 6️⃣ [Konekti Media - Ruleta de Premios]() 
 
-7️⃣ [Konekti Media - Web de Demos Publicitarios]()
+🌟 7️⃣ [Konekti Media - Web de Demos Publicitarios]()
 
 8️⃣ [Despegar - Chatbot Generador de Anuncios Inmobiliarios]()
 	
