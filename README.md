@@ -130,7 +130,7 @@
  
 4️⃣ [Julio Masajes - Landing Page](https://github.com/achique-luisdan/web-julio-masajes) 🌟
 
-5️⃣ [Mi Blog](https://github.com/achique-luisdan/blog.achique.luisdan)
+5️⃣ [Mi Blog](https://github.com/achique-luisdan/blog.achique.luisdan) 🌟
 
 6️⃣ [Konekti Media - Ruleta de Premios]() 🌟
 
