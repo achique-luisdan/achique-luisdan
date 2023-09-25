@@ -120,18 +120,8 @@
 	
 9️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
  
-1️⃣0️⃣ [Web Cakes Shop](https://github.com/achique-luisdan/web-cakes-shop)
+1️⃣0️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
 
-1️⃣1️⃣ [Web Linker Instagram](https://github.com/achique-luisdan/web-linker-instagram)
- 
-1️⃣2️⃣ [Video Player](https://github.com/achique-luisdan/video-player)
-
-1️⃣3️⃣ [Enciclopedia Multimedia "Aurora Digital"](https://github.com/achique-luisdan/em-aurora-digital)
-
-1️⃣4️⃣ [Sistema Tutor Inteligente "Aurora Digital"](https://github.com/achique-luisdan/sti-aurora-digital)
- 
-1️⃣5️⃣ [Generador💟 de vídeos📹 de reportes📊 **(Open Source)**](https://github.com/achique-luisdan/web-media-reports)
-
-1️⃣6️⃣ [API - Novedades de Valioso Producto Digital](https://github.com/achique-luisdan/api-product-news)
+1️⃣1️⃣ [Video Player](https://github.com/achique-luisdan/video-player)
 
 </section>
