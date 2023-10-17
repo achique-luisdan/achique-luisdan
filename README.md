@@ -73,6 +73,17 @@
   </p>
 </section>
 
+<section align="center">
+
+### Desing
+
+  <p align="center">
+    <img src="./badgets/design/inkscape.svg" alt="React Native" style="vertical-align:top; margin:4px">
+  </p>
+
+</section>
+
+
 <!-- 
 <section align="center">
 
@@ -86,15 +97,6 @@
 </section> -->
 
 
-<section align="center">
-
-### Desing
-
-  <p align="center">
-    <img src="./badgets/design/inkscape.svg" alt="React Native" style="vertical-align:top; margin:4px">
-  </p>
-
-</section>
 
 
 <section align="center">
