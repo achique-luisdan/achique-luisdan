@@ -115,9 +115,9 @@
 
 6️⃣ [Konekti Media - Ruleta de Premios]() 🌟
 
- 7️⃣ [Konekti Media - Web de Demos Publicitarios]() 🌟
+7️⃣ [Konekti Media - Web de Demos Publicitarios]() 🌟
 
-8️⃣ [Despegar - Chatbot Generador de Anuncios Inmobiliarios]()
+8️⃣ [BS Construye Reforma - Landing Page](https://github.com/Ed-wuard/bs-construye-reforma)🌟
 	
 9️⃣ [Web Coffee Domestika](https://github.com/achique-luisdan/web-coffee-domestika)
  
